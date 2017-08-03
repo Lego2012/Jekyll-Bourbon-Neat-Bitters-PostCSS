@@ -1,3 +1,4 @@
+# Dieses Respository wird nicht weiter gepflegt, kann aber natürlich weiter genutzt werden
 # Leo's Jekyll Template powered by Gulp und PostCSS
 #### Inspiriert von [stefanimhoff.de](http://stefanimhoff.de/)
 
